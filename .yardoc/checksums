@@ -1,0 +1,5 @@
+app/models/user.rb ecd1a0d21f6c75e9f31e5b82e799f4f290aff5b6
+app/helpers/users_helper.rb 4957066bcb0fa49423c7ae0fd83bc3b9e28a5ec7
+app/helpers/application_helper.rb eef3d3adce96afe8b14c19b6135323f47543d979
+app/controllers/users_controller.rb 217f1d56ed7f0ddd44bd8e27b8fe67bb4c9ae558
+app/controllers/application_controller.rb 2036468398e54b3fc8af23cb6f9e1716293320eb
