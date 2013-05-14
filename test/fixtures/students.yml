@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  surname: MyString
+  about_u: MyText
+  joining_date: 2013-05-15 01:31:23
+  mail_id: MyString
+
+two:
+  name: MyString
+  surname: MyString
+  about_u: MyText
+  joining_date: 2013-05-15 01:31:23
+  mail_id: MyString
